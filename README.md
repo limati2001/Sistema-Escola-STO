@@ -18,4 +18,5 @@ Funcionalidades:
 ⚠️ Observações
 
   O nome do aluno agora aceita espaços, no total de até 50 caracteres.
+  
   Algumas funcionalidades do sistema funciona apenas para sistemas baseados em Debian (Linux). Por ora, não recomendado para Windows ou MacOS.
