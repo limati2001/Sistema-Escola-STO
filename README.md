@@ -3,17 +3,17 @@ Registradora e calculadora de média aritmética das notas semestrais de alunos
 
 Funcionalidades:
 
-  Adicionar aluno (matrícula + nome + 4 notas p/ bimestre)
+  - Adicionar aluno (matrícula + nome + 4 notas p/ bimestre)
 
   - Listar alunos cadastrados
 
-  Cálculo de média na listagem
+  - Cálculo de média na listagem
 
-  Limite máximo de 2500 alunos
+  - Limite máximo de 2500 alunos
 
-  Excluir alunos por matrícula
+  - Excluir alunos por matrícula
 
-  Editar notas por matrícula
+  - Editar notas por matrícula
 
 ⚠️ Observações
 
