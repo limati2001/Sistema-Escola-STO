@@ -1,15 +1,19 @@
 # Sistema_notas_alunos
-Calculadora de média aritmética das notas semestrais de alunos, bem como a adição dos mesmos ao sistema
+Registradora e calculadora de média aritmética das notas semestrais de alunos
 
 🚀 Funcionalidades
 
-Adicionar aluno (nome + 2 notas)
+Adicionar aluno (matrícula + nome + 2 notas)
 
 Listar alunos cadastrados
 
 Cálculo de média na listagem
 
 Limite máximo de 10 alunos
+
+Excluir alunos
+
+Editar notas por matrícula
 
 🛠️ Compilação
 gcc main.c -o alunos -std=c11 -Wall -Wextra -Wpedantic
@@ -19,7 +23,3 @@ gcc main.c -o alunos -std=c11 -Wall -Wextra -Wpedantic
 ⚠️ Observações
 
 O nome do aluno não aceita espaços.
-
-Os dados (por ora) não são salvos em arquivo (memória temporária).
-
-A média é calculada no momento da listagem.
