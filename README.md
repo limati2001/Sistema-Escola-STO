@@ -1,25 +1,20 @@
 # Sistema_notas_alunos
 Registradora e calculadora de média aritmética das notas semestrais de alunos
 
-🚀 Funcionalidades
+Funcionalidades:
 
-Adicionar aluno (matrícula + nome + 2 notas)
+  Adicionar aluno (matrícula + nome + 4 notas p/ bimestre)
 
-Listar alunos cadastrados
+  - Listar alunos cadastrados
 
-Cálculo de média na listagem
+  Cálculo de média na listagem
 
-Limite máximo de 10 alunos
+  Limite máximo de 2500 alunos
 
-Excluir alunos
+  Excluir alunos por matrícula
 
-Editar notas por matrícula
-
-🛠️ Compilação
-gcc main.c -o alunos -std=c11 -Wall -Wextra -Wpedantic
-./alunos
-
+  Editar notas por matrícula
 
 ⚠️ Observações
 
-O nome do aluno não aceita espaços.
+  O nome do aluno agora aceita espaços, no total de até 50 caracteres.
